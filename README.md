@@ -2,7 +2,13 @@
 I am Seunfunmi Adegoke but my friends call me **"seun beta"** (I would drop a link to the pronunciation 😁)  
 
 
-I'm a Backend Developer and Petroleum Engineer currently learning Django. I'm passionate about Financial Technology, Sustainable Development Goals, FOSS.
+I'm a Backend Developer and Petroleum Engineer. I'm passionate about Financial Technology, Sustainable Development Goals, FOSS.  
+
+#### Currently Learning 👨‍💻
+- JavaScript (Node & Express).
+- Django Rest Framework.
+- Linux (history and the whole shebang).
+
 
 ### Useful Links 🌻
 - [GitHub](https://github.com/seun-beta)
